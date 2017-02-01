@@ -1,0 +1,38 @@
+/********************
+YOUR STYLES
+*******************/
+
+h1{
+  text-align: center;
+  font-size: 8em;
+}
+
+p{
+  font-size: 1.5em;
+  padding-top: 10em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+
+
+/********************
+MEDIA QUERIES
+*******************/
+/* Mobile: 320px = 20em */
+@media screen and (min-width: 20em) { 
+
+ 
+
+/* Tablet:  768px = 160em */
+@media screen and (min-width: 48em)  {
+
+  
+}
+
+/* Desktop: 1280px = 80em */
+@media screen and (min-width: 80em) { 
+  
+ 
+
+}
